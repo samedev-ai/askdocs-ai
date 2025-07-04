@@ -30,7 +30,7 @@ def ask_question(query, top_k=5):
         )
         user_prompt = f"""Please provide a comprehensive summary of the following document in 2-3 paragraphs:\n\nDocument content:\n{full_context}\n\nSummary:"""
         # Use Llama 2 for better summarization (correct OpenRouter model name)
-        model = "meta/llama-2-70b-chat"
+        model = "mistralai/mistral-7b-instruct"
         max_tokens = 800
     else:
         system_prompt = (
