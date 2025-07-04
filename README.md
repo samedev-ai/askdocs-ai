@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Document Upload and QA System
 
 > **An AI-powered document analysis system that extracts insights from your PDF documents using advanced language models.**
@@ -501,3 +502,7 @@ Once you upload a document, try these sample questions:
 ---
 
 *This interactive README was generated to help you get the most out of your Document QA System. Each section is expandable to show detailed information while keeping the main view clean and navigable.*
+=======
+# askdocs-ai
+A Python RAG app to upload documents and get answers via AI
+>>>>>>> 78d695f599b162a18fbbe2229019f49f0a378a94
