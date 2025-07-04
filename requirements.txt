@@ -1,0 +1,12 @@
+streamlit>=1.32.0
+haystack-ai>=0.1.0
+sentence-transformers>=2.2.0
+PyMuPDF>=1.23.0
+pdfplumber>=0.9.0
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.24.0
+openai>=1.0.0
+pyperclip>=1.8.2
+pathlib2>=2.3.7
+pickle-mixin>=1.0.2
